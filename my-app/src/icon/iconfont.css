@@ -1,0 +1,33 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1598771294422'); /* IE9 */
+  src: url('iconfont.eot?t=1598771294422#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQAAAsAAAAACNgAAAOxAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDMgqEZIQEATYCJAMUCwwABCAFhG0HWRuhBxEVnDPJfh7YMZ1hbS32Lt2cjMIy0j4HEebSWUt2XFnhAvKlyHwpEb4A8AfIv0AAbM3VwQMLHaFK8sb3/JNfyAKlk+YwZ7/7/+eY6aIE89vWThmJG+0NcJRAA4tonZ7QHcidKN8wdnEZ1yGAITtFkdp1G7fGR6PNE0AGD+jXAz9mQJeUCz6Cl7NVI0tx8Z15zh1gifvz8pXS4oODq9CWNu9bpzfVP9jPSSqcGqazjUDYnw1gdoECigIaZGSuYzDKTxRFYaS/01QHDD4Ozgf7IfShwuek1FRZsiKV0f/hgeCgUSAeWqkFoDpKavhgTRoEPoRocOBDBRo0fE4yoCDanW2AALgKvAGavH0+pXBwsngZpZi1OrPNOsnI+v357c69YKwRGfW6fUHsggNZ3IybhiZKJHaIIbzSmPmrRSwr/bVGYpk0f29aJ3wwr1GJ+6nARa517T6cOZm77X65yOMP88Ti7WLm7w13G9+QuH5opK03NnXmODFEHj2bzdl4pmzUsXPZ1ZbzoUAsnrqGSffetb7/vs3Dj+0efOgwBz7DU6OJa4JALOKCVRB8UXhlwsg1e0MRP4Y3G56SMbR3+I+Iwt7PjNEZUr3CESndu/LQLNSs+PPhC4JUm2BTgwXNFpif/snDQ9EhSv9Jb7Frsl2v3v55JJmwz1e5hMy/Eu2qX7drkiPWeFUbvDrzqkoDj7PVme2UaYm0835l/lWocgKVRsIqMkObaW0P6pXVX+p7+mV119ZWP4/UPtdtyamaXNKa7BIWWiKHveDTR4/8A3EH/O5Tcaf82GjGA5C6Oq88d3Rqq8oAoParwnKKuqua/BC/g/egaIFu0ZX/+4EG4OmIEV2RL5WmnoK3qqS28PULazZpWawZXS3WmwLR6VInYsCROgzw0j1xvOhHla52DAQ/JmTAIYJsoPDJi9TYouASUBY8fKqBoQj1dgfEMxKF6DRAYWYBEGI4Ag5RnAdFDHeRGvscXNLzHTxiRIGhrcQfGZBfQPGtFqMStKBvEA01Z5jlzSv/Rn8qiqNil/iPvMYwjN2QTB+xIfexYj37ScSBY6owg9uwFIKFKaGRLogsh753eR/qDNXNG7UYlaAFfYNoqDm7vbylvv8b/akoLmkocf8jr3F4GLuhBvKoaLUazmX0evaTiMOzHFOFGdqw6AmCJX9SQiNdaBFbDj1q5eoquvFV9RoPAAbtSFccUaLFFY+oftT8/UQpOm/fVHvqjQUFH8YR568a1l6iBBPZFJw3GwAAAA==') format('woff2'),
+  url('iconfont.woff?t=1598771294422') format('woff'),
+  url('iconfont.ttf?t=1598771294422') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1598771294422#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 5vw;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-gongzuojingyan:before {
+  content: "\e60c";
+}
+
+.icon-delete:before {
+  content: "\e637";
+}
+
+.icon-work:before {
+  content: "\e9fc";
+}
+
+.icon-AddwithcircleF:before {
+  content: "\e639";
+}
+

@@ -1,0 +1,21 @@
+.main{
+    padding: 10vw 8vw 20vw;
+}
+.list-title{
+    font-size: 7vw;
+}
+.list-item{
+    padding: 3vw 0;
+    border-bottom: 1px solid rgba(151, 130, 130, 0.5);
+    display: flex;
+    position: relative;
+}
+.list-item .button{
+    position: absolute;
+    right: 0;
+    font-size: 6vw !important;
+}
+.task-done{
+    color: gray;
+    text-decoration: line-through;
+}

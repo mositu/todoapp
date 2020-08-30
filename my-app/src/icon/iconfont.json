@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "375646",
+      "name": "work experience",
+      "font_class": "gongzuojingyan",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "4352724",
+      "name": "delete",
+      "font_class": "delete",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "6936734",
+      "name": "work",
+      "font_class": "work",
+      "unicode": "e9fc",
+      "unicode_decimal": 59900
+    },
+    {
+      "icon_id": "7275084",
+      "name": "Add (with circle) (F",
+      "font_class": "AddwithcircleF",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    }
+  ]
+}
